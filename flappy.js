@@ -50,15 +50,6 @@ function start(){
 image();
 
 }
-
-
-
-
-
-
-
-
-
 //on key down
 document.addEventListener("keydown",moveUp);
 function moveUp(){
